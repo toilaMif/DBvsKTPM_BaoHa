@@ -1,0 +1,5 @@
+﻿pass,expected
+abc123,TRUE
+abc1,FALSE
+abcdefghijk1,FALSE
+abcdefg,FALSE

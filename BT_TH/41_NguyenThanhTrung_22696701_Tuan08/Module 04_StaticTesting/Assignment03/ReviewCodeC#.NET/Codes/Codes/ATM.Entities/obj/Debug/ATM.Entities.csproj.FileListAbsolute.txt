@@ -1,0 +1,6 @@
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Entities\bin\Debug\ATM.Entities.dll
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Entities\bin\Debug\ATM.Entities.pdb
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Entities\obj\Debug\ATM.Entities.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Entities\obj\Debug\ATM.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Entities\obj\Debug\ATM.Entities.dll
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Entities\obj\Debug\ATM.Entities.pdb

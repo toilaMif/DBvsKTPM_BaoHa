@@ -1,0 +1,13 @@
+﻿A,B,C,Expected_Result
+-10,10,20,IndexOutOfRangeException
+200,10,20,IndexOutOfRangeException
+10,-10,20,IndexOutOfRangeException
+10,200,20,IndexOutOfRangeException
+10,20,-10,IndexOutOfRangeException
+10,20,200,IndexOutOfRangeException
+0,10,20,IndexOutOfRangeException
+51,10,20,IndexOutOfRangeException
+10,0,20,IndexOutOfRangeException
+10,51,20,IndexOutOfRangeException
+10,20,0,IndexOutOfRangeException
+10,20,51,IndexOutOfRangeException

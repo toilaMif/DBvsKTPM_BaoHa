@@ -1,0 +1,12 @@
+﻿A,B,C,Expected result
+1,2,3,Not a Triangle
+5,1,2,Not a Triangle
+1,5,2,Not a Triangle
+3,4,5,Triangle is Scalene
+2,2,3,Triangle is Isosceles
+2,3,2,Triangle is Isosceles
+3,2,2,Triangle is Isosceles
+2,2,2,Triangle is Equilateral
+1,1,3,Not a Triangle
+1,3,1,Not a Triangle
+3,1,1,Not a Triangle

@@ -1,0 +1,13 @@
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\bin\Debug\ATM.Bus.dll
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\bin\Debug\ATM.Bus.pdb
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\bin\Debug\ATM.Common.dll
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\bin\Debug\ATM.DAO.dll
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\bin\Debug\ATM.Entities.dll
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\bin\Debug\ATM.Common.pdb
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\bin\Debug\ATM.DAO.pdb
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\bin\Debug\ATM.Entities.pdb
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\obj\Debug\ATM.Bus.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\obj\Debug\ATM.Bus.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\obj\Debug\ATM.Bus.csproj.Up2Date
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\obj\Debug\ATM.Bus.dll
+C:\Users\nguye\OneDrive\Máy tính\41_NguyenThanhTrung_22696701_Tuan08\Module 04_StaticTesting\Assignment03\ReviewCodeC#.NET\Codes\Codes\ATM.Bus\obj\Debug\ATM.Bus.pdb

@@ -1,0 +1,16 @@
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\BT.dll
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\BT.pdb
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\obj\Debug\BT.csproj.AssemblyReference.cache
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\obj\Debug\BT.csproj.CoreCompileInputs.cache
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\obj\Debug\BT.csproj.Up2Date
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\obj\Debug\BT.dll
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\obj\Debug\BT.pdb
+D:\Education\4_HK2\Đảm bảo chất lượng và Kiểm thử phần mềm\BT_TH\TVT\BT\bin\Debug\bai5.csv

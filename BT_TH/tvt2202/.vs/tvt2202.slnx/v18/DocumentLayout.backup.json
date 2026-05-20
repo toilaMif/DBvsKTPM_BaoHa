@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\tvt2202\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43FE5837-602D-48A8-8E43-DF72013BD429}|tvt\\tvt.csproj|d:\\education\\4_hk2\\\u0111\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\bt_th\\tvt2202\\tvt\\aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FE5837-602D-48A8-8E43-DF72013BD429}|tvt\\tvt.csproj|solutionrelative:tvt\\aa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FE5837-602D-48A8-8E43-DF72013BD429}|tvt\\tvt.csproj|d:\\education\\4_hk2\\\u0111\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\bt_th\\tvt2202\\tvt\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FE5837-602D-48A8-8E43-DF72013BD429}|tvt\\tvt.csproj|solutionrelative:tvt\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aa.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\tvt2202\\tvt\\aa.cs",
+              "RelativeDocumentMoniker": "tvt\\aa.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\tvt2202\\tvt\\aa.cs*",
+              "RelativeToolTip": "tvt\\aa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:15:51.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\tvt2202\\tvt\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "tvt\\UnitTest1.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\tvt2202\\tvt\\UnitTest1.cs*",
+              "RelativeToolTip": "tvt\\UnitTest1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:10:29.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_trung_trung\\ut_lab_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|solutionrelative:01_trung_trung\\ut_lab_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|d:\\education\\4_hk2\\\u0111\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\bt_th\\01_trung_trung\\01_trung_trung\\ut_lab_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|solutionrelative:01_trung_trung\\ut_lab_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_trung_trung\\data_lab2.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|solutionrelative:01_trung_trung\\data_lab2.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_trung_trung\\ut_lab_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|solutionrelative:01_trung_trung\\ut_lab_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_trung_trung\\ut_lab_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|solutionrelative:01_trung_trung\\ut_lab_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_trung_trung\\ut_lab_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|solutionrelative:01_trung_trung\\ut_lab_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_trung_trung\\ut_lab_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|solutionrelative:01_trung_trung\\ut_lab_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_trung_trung\\data_lab7_valid.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|solutionrelative:01_trung_trung\\data_lab7_valid.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_trung_trung\\data_lab7_invalid.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{495AA555-07F0-4AE3-B3E6-546E901DB7A1}|01_Trung_Trung\\01_Trung_Trung.csproj|solutionrelative:01_trung_trung\\data_lab7_invalid.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data_Lab2.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\Data_Lab2.csv",
+              "RelativeDocumentMoniker": "01_Trung_Trung\\Data_Lab2.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\Data_Lab2.csv",
+              "RelativeToolTip": "01_Trung_Trung\\Data_Lab2.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-08T00:40:36.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UT_Lab_2.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_2.cs",
+              "RelativeDocumentMoniker": "01_Trung_Trung\\UT_Lab_2.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_2.cs",
+              "RelativeToolTip": "01_Trung_Trung\\UT_Lab_2.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T00:40:27.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UT_Lab_3.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_3.cs",
+              "RelativeDocumentMoniker": "01_Trung_Trung\\UT_Lab_3.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_3.cs",
+              "RelativeToolTip": "01_Trung_Trung\\UT_Lab_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T00:40:26.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UT_Lab_4.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_4.cs",
+              "RelativeDocumentMoniker": "01_Trung_Trung\\UT_Lab_4.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_4.cs",
+              "RelativeToolTip": "01_Trung_Trung\\UT_Lab_4.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T00:38:35.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UT_Lab_8.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_8.cs",
+              "RelativeDocumentMoniker": "01_Trung_Trung\\UT_Lab_8.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_8.cs",
+              "RelativeToolTip": "01_Trung_Trung\\UT_Lab_8.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAuwBcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T00:32:50.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UT_Lab_1.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_1.cs",
+              "RelativeDocumentMoniker": "01_Trung_Trung\\UT_Lab_1.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_1.cs",
+              "RelativeToolTip": "01_Trung_Trung\\UT_Lab_1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:41:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UT_Lab_7.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_7.cs",
+              "RelativeDocumentMoniker": "01_Trung_Trung\\UT_Lab_7.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\UT_Lab_7.cs",
+              "RelativeToolTip": "01_Trung_Trung\\UT_Lab_7.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:16:09.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Data_Lab7_Valid.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\Data_Lab7_Valid.csv",
+              "RelativeDocumentMoniker": "01_Trung_Trung\\Data_Lab7_Valid.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\Data_Lab7_Valid.csv",
+              "RelativeToolTip": "01_Trung_Trung\\Data_Lab7_Valid.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T15:13:11.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Data_Lab7_Invalid.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\Data_Lab7_Invalid.csv",
+              "RelativeDocumentMoniker": "01_Trung_Trung\\Data_Lab7_Invalid.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\01_Trung_Trung\\01_Trung_Trung\\Data_Lab7_Invalid.csv",
+              "RelativeToolTip": "01_Trung_Trung\\Data_Lab7_Invalid.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T15:13:07.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

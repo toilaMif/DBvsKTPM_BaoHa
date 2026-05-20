@@ -1,0 +1,635 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|d:\\education\\4_hk2\\\u0111\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\bt_th\\41_nguyenthanhtrung_22696701_tuan07\\41_nguyenthanhtrung_22696701_tuan07\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|d:\\education\\4_hk2\\\u0111\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\bt_th\\41_nguyenthanhtrung_22696701_tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\functiontuan07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\functiontuan07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|41_NguyenThanhTrung_22696701_Tuan07||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai5_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai5_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai20_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai20_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai19_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai19_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai18_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai18_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai17_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai17_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai16_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai16_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai10_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai10_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai15_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai15_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai14_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai14_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai9_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai9_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai13_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai13_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai12_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai12_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai11_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai11_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai8_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai8_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai7_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai7_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai6_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai6_data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_nguyenthanhtrung_22696701_tuan07\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F634588-D6AB-4DB5-90E2-134F161189D1}|41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj|solutionrelative:41_nguyenthanhtrung_22696701_tuan07\\bai4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionTuan07.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\FunctionTuan07.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\FunctionTuan07.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\FunctionTuan07.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\FunctionTuan07.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:27:08.786Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\UnitTest1.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\UnitTest1.cs*",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\UnitTest1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T16:35:09.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai10.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai10.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai10.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai10.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:10:05.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai11.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai11.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai11.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai11.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai11.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:44:02.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai8.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai8.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai8.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai8.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai8.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T03:44:45.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai3.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai3.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai3.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai3.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai3.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T02:48:19.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bai5_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai5_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai5_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai5_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai5_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T15:46:11.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bai5.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai5.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai5.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai5.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:46:43.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai7.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai7.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai7.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai7.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T03:17:49.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai12.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai12.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai12.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai12.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai12.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T02:59:53.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "41_NguyenThanhTrung_22696701_Tuan07",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-11T04:39:52.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bai21.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai21.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai21.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai21.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai21.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:40:53.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Bai19.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai19.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai19.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai19.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai19.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:49:44.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bai20_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai20_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai20_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai20_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai20_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T03:56:11.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bai19_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai19_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai19_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai19_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai19_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T03:55:58.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bai18_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai18_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai18_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai18_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai18_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T03:55:48.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Bai17_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai17_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai17_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai17_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai17_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T03:55:38.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Bai16_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai16_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai16_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai16_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai16_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T03:55:18.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bai20.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai20.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai20.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai20.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai20.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:49:48.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bai18.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai18.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai18.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai18.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai18.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA6wCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:49:38.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bai17.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai17.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai17.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai17.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai17.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:49:33.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bai16.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai16.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai16.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai16.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai16.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:49:13.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Bai15.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai15.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai15.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai15.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai15.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:48:59.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bai15_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai15_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai15_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai15_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai15_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T03:48:53.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Bai14_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai14_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai14_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai14_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai14_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T03:40:45.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Bai14.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai14.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai14.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai14.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai14.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:40:18.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Bai13.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai13.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai13.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai13.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai13.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:15:37.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Bai13_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai13_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai13_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai13_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai13_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T03:15:31.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Bai12_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai12_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai12_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai12_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai12_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T02:59:25.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Bai11_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai11_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai11_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai11_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai11_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-07T02:34:53.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Bai9.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai9.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai9.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai9.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai9.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:04:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Bai10_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai10_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai10_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai10_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai10_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-06T04:09:58.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Bai9_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai9_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai9_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai9_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai9_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-06T04:03:12.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Bai8_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai8_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai8_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai8_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai8_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-06T03:42:10.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Bai7_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai7_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai7_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai7_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai7_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-06T03:15:25.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Bai6.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai6.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai6.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai6.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:58:48.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Bai6_Data.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai6_Data.csv",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai6_Data.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai6_Data.csv",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai6_Data.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-06T03:02:49.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Bai4.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai4.cs",
+              "RelativeDocumentMoniker": "41_NguyenThanhTrung_22696701_Tuan07\\Bai4.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\41_NguyenThanhTrung_22696701_Tuan07\\41_NguyenThanhTrung_22696701_Tuan07\\Bai4.cs",
+              "RelativeToolTip": "41_NguyenThanhTrung_22696701_Tuan07\\Bai4.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:50:25.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿s1,s2,s3,Expected Result
+"thaivantrung","van","aaa","thaiaaatrung"
+"thaivantrung","thai","aaa","aaavantrung"
+"thaivantrung","ung","aaa","thaivantraaa"
+"  ","  ","  ","  "
+"thaivantrung"," ","aaa","thaivantrung"
+"thaivantrung","trung","  ","thaivan"
+"thaivantrung","zzz","  ","thaivantrung"
+"thaivantrung","zzz","aaa","thaivantrung"

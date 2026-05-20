@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\TVT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5827ABDF-C9E9-4AE6-8068-B9F9F3FE3011}|BT\\BT.csproj|d:\\education\\4_hk2\\\u0111\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\bt_th\\tvt\\bt\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827ABDF-C9E9-4AE6-8068-B9F9F3FE3011}|BT\\BT.csproj|solutionrelative:bt\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827ABDF-C9E9-4AE6-8068-B9F9F3FE3011}|BT\\BT.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\TVT\\bt\\bai5.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5827ABDF-C9E9-4AE6-8068-B9F9F3FE3011}|BT\\BT.csproj|solutionrelative:bt\\bai5.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5827ABDF-C9E9-4AE6-8068-B9F9F3FE3011}|BT\\BT.csproj|D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\TVT\\bt\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5827ABDF-C9E9-4AE6-8068-B9F9F3FE3011}|BT\\BT.csproj|solutionrelative:bt\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai5.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\TVT\\BT\\Bai5.cs",
+              "RelativeDocumentMoniker": "BT\\Bai5.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\TVT\\BT\\Bai5.cs",
+              "RelativeToolTip": "BT\\Bai5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:46:11.439Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai5.csv",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\TVT\\BT\\bai5.csv",
+              "RelativeDocumentMoniker": "BT\\bai5.csv",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\TVT\\BT\\bai5.csv",
+              "RelativeToolTip": "BT\\bai5.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-20T06:05:01.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\TVT\\BT\\Class1.cs",
+              "RelativeDocumentMoniker": "BT\\Class1.cs",
+              "ToolTip": "D:\\Education\\4_HK2\\\u0110\u1EA3m b\u1EA3o ch\u1EA5t l\u01B0\u1EE3ng v\u00E0 Ki\u1EC3m th\u1EED ph\u1EA7n m\u1EC1m\\BT_TH\\TVT\\BT\\Class1.cs",
+              "RelativeToolTip": "BT\\Class1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAwwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T05:21:05.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

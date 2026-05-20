@@ -1,0 +1,6 @@
+﻿email,expected
+abc@abc,FALSE
+ab..c@abc.com,FALSE
+abc.def.com,FALSE
+abc@.com,FALSE
+abc@abc.com,TRUE

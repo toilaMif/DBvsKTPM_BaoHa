@@ -1,0 +1,6 @@
+﻿a,b,c,expected
+-1,2,3,FALSE
+3,4,5,TRUE
+2,3,5,FALSE
+5,2,2,FALSE
+4,5,6,TRUE
